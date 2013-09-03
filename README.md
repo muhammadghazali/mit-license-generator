@@ -1,6 +1,8 @@
 mit-license-generator
 =====================
 
+[![Build Status](https://travis-ci.org/muhammadghazali/mit-license-generator.png?branch=master)](https://travis-ci.org/muhammadghazali/mit-license-generator)
+
 MIT License generator.
 
 ### How to install
