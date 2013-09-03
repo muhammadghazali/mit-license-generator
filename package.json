@@ -26,6 +26,10 @@
     "commander": "~2.0.0"
   },
   "devDependencies": {
-    "should": "~1.2.2"
+    "should": "~1.2.2",
+    "grunt": "~0.4.1",
+    "grunt-mocha-cli": "~1.1.0",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-watch": "~0.5.3"
   }
 }
