@@ -1,0 +1,31 @@
+{
+  "name": "mit-license-generator",
+  "version": "0.1.0",
+  "description": "MIT License generator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/muhammadghazali/mit-license-generator.git"
+  },
+  "bin": {
+    "license-mit": "./bin/license-mit.js"
+  },
+  "keywords": [
+    "mit",
+    "license",
+    "generator",
+    "license"
+  ],
+  "author": "Muhammad Ghazali (https://github.com/muhammadghazali)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhammadghazali/mit-license-generator/issues"
+  },
+  "dependencies": {
+    "swig": "~1.0.0-rc1",
+    "commander": "~2.0.0"
+  },
+  "devDependencies": {
+    "should": "~1.2.2"
+  }
+}
